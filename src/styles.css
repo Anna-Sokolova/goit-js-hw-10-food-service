@@ -22,8 +22,8 @@ body.light-theme {
 }
 
 body.dark-theme {
-  background-color: #333333;
-  color: #fff;
+  background-color: #444343;
+  color: rgb(142, 174, 243);
 }
 
 .toolbar {
